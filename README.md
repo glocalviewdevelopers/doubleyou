@@ -13,6 +13,10 @@ Double You is a marketplace dedicated to providing visibility and market access 
 # Platforms:
  - Web
 
+# Technologies Used:
+- Wordpress
+
+
 # Web URL:
 https://doubleyou.store/
   
