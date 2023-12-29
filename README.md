@@ -11,6 +11,6 @@ Double You is a marketplace dedicated to providing visibility and market access 
  - Our Impact Calculator feature generates reports, quantifying the social impact of each purchase to foster transparency and awareness among users.
  - Our team is motivated by the belief that empowering those who do good for themselves, others, and the planet is essential for building a more inclusive and prosperous society.
  - 
-# Platform:
+# Platforms:
  - Web
   
